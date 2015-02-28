@@ -20,3 +20,8 @@ What are our goals for 2-27-15?
 
 ☑ 1. Write goals list for unitedcode.org 
 ☑ 2. Decide on and make a official logo 
+
+What are our goals for 2-28-15?
+
+☐ 1. Find a bootstrap template worthy our site/sight
+☐ 2. Finalize a navbar design and incorporate the logo into it
