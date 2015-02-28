@@ -9,13 +9,14 @@ _____/\\\\\\\\\\\\_______________________________/\\\\\\_________________
         __\////////////_______\/////______\////////\//__\/////////__\//////////_
 
 
-What are our goals for tonight?
-
-☑ 1. Write goals list for unitedcode.org 
-☐ 2. Decide on and make a official logo 
-
 What are our goals for unitedcode.org?
 
 1. To create a development environment on the web
 2. To create a blog about upcoming and in progress projects
 3. To create a virtual resume for all people involved
+
+
+What are our goals for 2-27-15?
+
+☑ 1. Write goals list for unitedcode.org 
+☑ 2. Decide on and make a official logo 
