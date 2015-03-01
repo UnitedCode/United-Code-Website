@@ -27,6 +27,49 @@ body {
   width: auto;
 }
 
+.navbar-inverse {
+  background-color: #E0E0E0;
+  border-color: #E0E0E0;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: #616161;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  color: #616161;
+  background-color: #D7D7D7;
+}
+
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+  color: #616161;
+  background-color: #D7D7D7;
+}
+
+.navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-brand:hover {
+  color: #616161;
+  background-color: transparent;
+}
+
+.navbar-brand>img {
+  display: inline;
+}
+
+.navbar-brand {
+  font-size: 23px
+}
+
+.code {
+  font-family: 'Source Code Pro', sans-serif;
+  font-weight: 200;
+  letter-spacing: -1px;
+}
+
+.logo {
+  width:56px;
+  height:67px;
+  margin-top: -24px;
+}
 
 
 /* RESPONSIVE CSS
@@ -50,5 +93,13 @@ body {
   .navbar-wrapper .navbar {
     border-radius: 4px;
   }
+
 }
+
+@media (max-width: 768px) {
+  .navbar-brand>img {
+    display: none;
+  }
+}
+
 
