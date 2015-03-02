@@ -5,6 +5,7 @@
 .jumbotron h1 {
 	font-size: 100px
 }
+
 h1>.code {
 	letter-spacing: -10px;
 
@@ -13,4 +14,8 @@ h1>.code {
 .home-top {
 	text-align: center;
 	margin-top: 70px;
+}
+
+.jumbotron p {
+	margin: 65px 200px 0;
 }
